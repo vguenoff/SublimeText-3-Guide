@@ -1,3 +1,4 @@
+# Sublime Text 3 Installation Guide
 * 1. Install <strong>Sublme Text 3</strong> from http://www.sublimetext.com/3
 * 2. Check for <strong>Node.js</strong> in “Programs and Features” on your pc, if none install it from here https://nodejs.org/
 * 3. Install <strong>Package Control</strong> from here https://packagecontrol.io/installation: In View > Show Console and than paste the code from the link.
