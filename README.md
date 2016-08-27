@@ -8,11 +8,11 @@
 * 7. Install <strong>SublimeLinter</strong> (point 4). SublimeLinter will help you write cleaner, better, more bugfree code! After the full install (including point 11) you should see yellow (warnings) and red (errors) points in your CSS and JS code.
 * 8. Open Windows Command Prompt and write this code and press Enter:
 ```
-npm install g csslint
+npm install -g csslint
 ```
 * 9. Wait a bit for the code to process and write this, press enter and wait for the output again:
 ```
-npm install g jshint
+npm install -g jshint
 ```
 * 10. Install <strong>SublimeLinter-csslint</strong> (point 4).
 * 11. Install <strong>SublimeLinter-jshint</strong> (point 4).
